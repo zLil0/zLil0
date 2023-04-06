@@ -5,7 +5,7 @@
 
 ![zLil0 GitHub stats](https://github-readme-stats.vercel.app/api?username=zLil0&show_icons=true&theme=radical)
 
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/899132733673078854/1093553521636409395/gif_2_1.gif" />
+<img align="right" alt="GIF" heigh="300" width="150" src="https://cdn.discordapp.com/attachments/899132733673078854/1093553521636409395/gif_2_1.gif" />
 
 ##
 
