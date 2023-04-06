@@ -13,4 +13,3 @@
 
 </div> <br/>
 
-Study and Code like there's no tomorrow, push like you're running out of time, and commit like you'll never be back 
