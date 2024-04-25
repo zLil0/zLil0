@@ -1,10 +1,12 @@
-### Hi I'm Murilo F Matos 👋
+### Hi I'm Murilo F Matos, full stack web developer 👋
+Im student at the Federal Institute of Technology of São Paulo, and a programing lover.<br>
+I enjoy coding simple games and crazy stuff in my free time.<br>
+I love a challenging problem.<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilo.fmatos/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-francisco-matos)
 
-I enjoy coding simple games and crazy stuff.
-Love challenging problems.
+
 
 ##
 
